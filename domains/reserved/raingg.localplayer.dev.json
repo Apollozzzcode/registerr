@@ -1,0 +1,14 @@
+{
+    "description": "AI site.",
+    "domain": "localplayer.dev",
+    "subdomain": "raingg",
+    "owner": {
+        "email": "snipermaingango@gmail.com"
+    },
+    "record": {
+        "A": [
+            "216.198.79.1"
+        ]
+    },
+    "proxied": false
+}
